@@ -1,5 +1,10 @@
 hello world we love the world.
 the world love me too
+<<<<<<< HEAD
 
 
 想要的世界在自己脚下,没有人能帮你
+=======
+the world love me too
+hello world we love the world.
+>>>>>>> 512a4400bb1d503163824fd0c6955d94d1e5707a
