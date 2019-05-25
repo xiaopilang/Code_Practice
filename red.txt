@@ -2,9 +2,6 @@ hello world we love the world.
 the world love me too
 the world love me too
 hello world we love the world.
-<<<<<<< HEAD
-һ����һ����һ��һ����
+一样的一样的一样一样的
 
-=======
-the same thing do again ,how do 
->>>>>>> d0648780b1f572c3fee0986888a4ad6000c32aa0
+
